@@ -1,6 +1,6 @@
 Tabbar
 ======
-This is a mirror of http://www.vim.org/scripts/script.php?script_id=1338 with many bugs fixed
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1338
 
 Bugfixs
 -------
